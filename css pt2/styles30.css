@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+}
+.div-dad {
+   background-color: blue;
+   width: 350px;
+   height: 350px;
+}
+.div-son {
+    background-color: rebeccapurple;
+    height: 150px;
+    width: 150px;
+}
+.tanana {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(159, 19, 172);
+}

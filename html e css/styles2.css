@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    font-size: 30px;
+}
+
+h1 {
+    color: rgb(222, 245, 16);
+    font-size: 60px;
+    text-align: center;
+  text-transform: capitalize;
+  
+}
+
+ul{
+    color: blue;
+   
+}
+ol{
+    color: rgb(0, 44, 241);
+    
+}
+h2{ 
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
